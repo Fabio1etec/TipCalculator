@@ -6,23 +6,38 @@
     
         
     <VerticalStackLayout>
-        <Label Text="Total da conta"/>
-        <Entry x:Name="billInput" Placeholder="Insira o valor da conta" Keyboard="Numeric"/>
-        <Label x:Name="Gorjeta" />
-        <Label x:Name="TipOutput" Text="0.00"/>
+        <HorizontalStackLayout>
+            <Label Text="Total da conta"/>
+            <Entry x:Name="billInput" Placeholder="Insira o valor da conta" Keyboard="Numeric"/>
+        </HorizontalStackLayout>
 
-        <Label x:Name="Total" />
-        <Label x:Name="TotalOutput" Text="0.00"/>
+        <HorizontalStackLayout>
+            <Label x:Name="Gorjeta" />
+            <Label x:Name="TipOutput" Text="0.00"/>
+        </HorizontalStackLayout>
 
-        <Label Text="Percentual da gorjeta"/>
-        <Label x:Name="tipPercent" Text="0.00"/>
+        <HorizontalStackLayout>
+            <Label x:Name="Total" />
+            <Label x:Name="TotalOutput" Text="0.00"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <Label Text="Percentual da gorjeta"/>
+            <Label x:Name="tipPercent" Text="0.00"/>
+        </HorizontalStackLayout>
+        
         <Slider x:Name="tipPercentSlider" Minimum="0" Maximum="100" Value="15"/>
 
-        <Button Text="15%" Clicked="OnNormalTip" />
-        <Button Text="20%" Clicked="OnGenerousTip" />
-            
-        <Button x:Name="roundDown" Text="Round Down"/>
-        <Button x:Name="roundUp" Text="Round Up"/>
+        <HorizontalStackLayout>
+            <Button Text="15%" Clicked="OnNormalTip" />
+            <Button Text="20%" Clicked="OnGenerousTip" />
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <Button x:Name="roundDown" Text="Round Down"/>
+            <Button x:Name="roundUp" Text="Round Up"/>
+        </HorizontalStackLayout>
+        
 
 
 
