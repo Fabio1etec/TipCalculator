@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>983489ce-7001-41a5-8b67-c089043f8319</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>D:\Projetos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\etechas\Source\Repos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>080D03131BBF5F39001A0CD09CF624E2CD2A1F065E2B62567DE982F12668A6E5</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>983489ce-7001-41a5-8b67-c089043f8319_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>983489ce-7001-41a5-8b67-c089043f8319_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Projetos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\etechas\Source\Repos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-19T00:27:55.359</Modified>
+      <Modified>2023-08-26T00:21:03.424</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-19T00:27:54.699</Modified>
+      <Modified>2023-08-26T00:21:02.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.runtimeconfig.json">
       <PackagePath>TipCalculator.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-18T23:48:11.306</Modified>
+      <Modified>2023-08-25T23:19:08.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.dll">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.dll">
       <PackagePath>TipCalculator.dll</PackagePath>
-      <Modified>2023-08-19T00:27:53.686</Modified>
+      <Modified>2023-08-26T00:21:01.860</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TipCalculator.exe</PackagePath>
-      <Modified>2023-08-19T00:27:53.719</Modified>
+      <Modified>2023-08-26T00:21:01.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.1\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -918,9 +918,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.deps.json">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.deps.json">
       <PackagePath>TipCalculator.deps.json</PackagePath>
-      <Modified>2023-08-19T00:27:55.212</Modified>
+      <Modified>2023-08-26T00:21:03.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -934,241 +934,241 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-11-26T02:28:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-08-18T22:54:59.661</Modified>
+      <Modified>2023-08-25T22:37:52.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.647</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.661</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.679</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.708</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.818</Modified>
+      <Modified>2023-08-25T22:37:55.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-08-18T22:54:59.659</Modified>
+      <Modified>2023-08-25T22:37:55.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-08-18T22:54:59.660</Modified>
+      <Modified>2023-08-25T22:37:55.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-08-18T23:48:08.878</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.083</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.093</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.103</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.119</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.178</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.937</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.939</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.950</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.942</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.944</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.922</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.924</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.935</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.926</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.928</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.890</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.892</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.895</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.898</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.902</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.905</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.907</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.919</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.910</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.912</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.987</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.991</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.996</Modified>
+      <Modified>2023-08-25T22:37:55.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.003</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.018</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.967</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.970</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.973</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.976</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.983</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.953</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.955</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.958</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.960</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.965</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.022</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.029</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.036</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.047</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:09.076</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.910</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.918</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.929</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.945</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Projetos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:48:08.985</Modified>
+      <Modified>2023-08-25T22:37:55.311</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

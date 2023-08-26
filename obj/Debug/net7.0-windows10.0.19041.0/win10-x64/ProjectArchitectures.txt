@@ -1,1 +1,1 @@
-D:\Projetos\TipCalculator\TipCalculator.csproj;x64
+C:\Users\etechas\Source\Repos\TipCalculator\TipCalculator.csproj;x64

@@ -24015,11 +24015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\TipCalculator\\TipCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\etechas\\Source\\Repos\\TipCalculator\\TipCalculator.csproj",
       "projectName": "TipCalculator",
-      "projectPath": "D:\\Projetos\\TipCalculator\\TipCalculator.csproj",
+      "projectPath": "C:\\Users\\etechas\\Source\\Repos\\TipCalculator\\TipCalculator.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\TipCalculator\\obj\\",
+      "outputPath": "C:\\Users\\etechas\\Source\\Repos\\TipCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
